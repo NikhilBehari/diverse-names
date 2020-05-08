@@ -1,7 +1,13 @@
-diverse-names
-=============
+diversenames
+============
 
-Randomly returns a diverse name. List of diverse names comes from
-`NamesDatabases`_.
+This package randomly generates a list of diverse names.
 
-.. _NamesDatabases: https://github.com/smashew/NameDatabases
+Usage
+-----
+
+To install this package, run the following command in the terminal:
+
+::
+
+   pip install git+https://github.com/NikhilBehari/diverse-names.git
