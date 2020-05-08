@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='Diverse Names',
+    name='diversenames',
     url='https://github.com/NikhilBehari/diverse-names',
     author='Nikhil Behari',
     author_email='nikhil@nikhilbehari.com',
